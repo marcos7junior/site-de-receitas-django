@@ -80,7 +80,7 @@ DATABASES = {
         'ENGINE': 'django.db.backends.postgresql',
         'NAME': 'alura_receita',
         'USER': 'postgres',
-        'PASSWORD': 'debora7',
+        'PASSWORD': '******7',
         'HOST': 'localhost'
     }
     # 'default': {
